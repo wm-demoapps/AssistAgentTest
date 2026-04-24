@@ -1,0 +1,7 @@
+{
+  "id" : "hrdb",
+  "type" : "DataService",
+  "packageNames" : [ "com.wavemaker.assistagenttest.hrdb" ],
+  "title" : "hrdb",
+  "mockEnabled" : false
+}
